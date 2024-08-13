@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Turnit_Test_2024", "Turnit_Test_2024\Turnit_Test_2024.csproj", "{33AEBCCA-4918-414B-B10B-97A31106FCEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33AEBCCA-4918-414B-B10B-97A31106FCEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33AEBCCA-4918-414B-B10B-97A31106FCEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33AEBCCA-4918-414B-B10B-97A31106FCEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33AEBCCA-4918-414B-B10B-97A31106FCEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
